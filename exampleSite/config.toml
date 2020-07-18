@@ -20,61 +20,63 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
-[[menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
+URL = "contact"
+name = "Contact"
+weight = 6
 [[menu.footer]]
 URL = "faq"
 name = "FAQ"
 weight = 5
 [[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
-URL = "project"
-name = "Project"
-weight = 2
-[[menu.main]]
+URL = "pricing"
+name = "Pricing"
+weight = 4
+[[menu.footer]]
 URL = "service"
 name = "Service"
 weight = 3
+[[menu.footer]]
+URL = "project"
+name = "Project"
+weight = 2
+[[menu.footer]]
+URL = "about"
+name = "People"
+weight = 1
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
+URL = "pricing"
+name = "Pricing"
+parent = "Pages"
+weight = 1
+[[menu.main]]
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 6
 [[menu.main]]
 hasChildren = true
 name = "Pages"
 weight = 5
 [[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
+URL = "blog"
+name = "Blog"
+weight = 4
 [[menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
+URL = "service"
+name = "Service"
+weight = 3
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
+URL = "project"
+name = "Project"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [params]
 author = "Themefisher"
 contact_form_action = "#"
