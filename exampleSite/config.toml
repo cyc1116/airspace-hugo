@@ -25,16 +25,16 @@ name = "Contact"
 weight = 6
 [[menu.footer]]
 URL = "faq"
-name = "News"
-weight = 1
+name = "Publications"
+weight = 4
 [[menu.footer]]
 URL = "pricing"
 name = "Research"
 weight = 2
 [[menu.footer]]
 URL = "service"
-name = "Publications"
-weight = 4
+name = "News"
+weight = 1
 [[menu.footer]]
 URL = "project"
 name = "Alumni & Friends"
@@ -63,8 +63,8 @@ name = "Research"
 weight = 3
 [[menu.main]]
 URL = "blog"
-name = "Publications"
-weight = 4
+name = "News"
+weight = 1
 [[menu.main]]
 URL = "service"
 name = "Alumni & Friends"
@@ -75,8 +75,8 @@ name = "People"
 weight = 2
 [[menu.main]]
 URL = "about"
-name = "News"
-weight = 1
+name = "Publications"
+weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
