@@ -29,29 +29,29 @@ name = "News"
 weight = 1
 [[menu.footer]]
 URL = "pricing"
-name = "Alumni & Friends"
-weight = 5
+name = "Research"
+weight = 2
 [[menu.footer]]
 URL = "service"
 name = "Publications"
 weight = 4
 [[menu.footer]]
 URL = "project"
-name = "Research"
-weight = 3
+name = "Alumni & Friends"
+weight = 5
 [[menu.footer]]
 URL = "about"
 name = "People"
-weight = 2
+weight = 3
 [[menu.main]]
 URL = "pricing"
 name = "Pricing"
-parent = "Alumni & Friends"
+parent = "Research"
 weight = 1
 [[menu.main]]
 URL = "faq"
 name = "FAQ"
-parent = "Alumni & Friends"
+parent = "Research"
 weight = 2
 [[menu.main]]
 URL = "contact"
@@ -59,16 +59,16 @@ name = "Contact"
 weight = 6
 [[menu.main]]
 hasChildren = true
-name = "Alumni & Friends"
-weight = 5
+name = "Research"
+weight = 3
 [[menu.main]]
 URL = "blog"
 name = "Publications"
 weight = 4
 [[menu.main]]
 URL = "service"
-name = "Research"
-weight = 3
+name = "Alumni & Friends"
+weight = 5
 [[menu.main]]
 URL = "project"
 name = "People"
