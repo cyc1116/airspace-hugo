@@ -25,24 +25,24 @@ name = "Contact"
 weight = 6
 [[menu.footer]]
 URL = "faq"
-name = "FAQ"
-weight = 5
+name = "News"
+weight = 1
 [[menu.footer]]
 URL = "pricing"
-name = "Pricing"
-weight = 4
+name = "Alumni & Friends"
+weight = 5
 [[menu.footer]]
 URL = "service"
-name = "Service"
-weight = 3
+name = "Publications"
+weight = 4
 [[menu.footer]]
 URL = "project"
-name = "Project"
-weight = 2
+name = "Research"
+weight = 3
 [[menu.footer]]
 URL = "about"
 name = "People"
-weight = 1
+weight = 2
 [[menu.main]]
 URL = "pricing"
 name = "Pricing"
