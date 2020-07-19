@@ -46,12 +46,12 @@ weight = 2
 [[menu.main]]
 URL = "pricing"
 name = "Pricing"
-parent = "Pages"
+parent = "Alumni & Friends"
 weight = 1
 [[menu.main]]
 URL = "faq"
 name = "FAQ"
-parent = "Pages"
+parent = "Alumni & Friends"
 weight = 2
 [[menu.main]]
 URL = "contact"
@@ -59,23 +59,23 @@ name = "Contact"
 weight = 6
 [[menu.main]]
 hasChildren = true
-name = "Pages"
+name = "Alumni & Friends"
 weight = 5
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Publications"
 weight = 4
 [[menu.main]]
 URL = "service"
-name = "Service"
+name = "Research"
 weight = 3
 [[menu.main]]
 URL = "project"
-name = "Project"
+name = "People"
 weight = 2
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "News"
 weight = 1
 [params]
 author = "Themefisher"
