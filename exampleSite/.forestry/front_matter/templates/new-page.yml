@@ -14,3 +14,5 @@ fields:
     maxSize: 250
   label: bg image
   description: page header background image
+pages:
+- exampleSite/content/english/News/prof.xu-published-triple-halide-wide-band-gap-perovskites-with-suppressed-phase-segregation-for-efficient-tandems-in-science.md
