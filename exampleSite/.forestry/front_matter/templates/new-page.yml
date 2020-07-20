@@ -15,4 +15,5 @@ fields:
   label: bg image
   description: page header background image
 pages:
+- exampleSite/content/english/News/prof.xu-published-mobile-ion-concentration-measurement-and-open-access-band-diagram-simulation-platform-for-halide-perovskite-solar-cells-in-joule.md
 - exampleSite/content/english/News/prof.xu-published-triple-halide-wide-band-gap-perovskites-with-suppressed-phase-segregation-for-efficient-tandems-in-science.md
