@@ -20,62 +20,63 @@ languageCode = "zh-cn"
 languageName = "中文"
 weight = 2
 [[menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
+URL = "contact"
+name = "Contact"
+weight = 6
 [[menu.footer]]
-URL = "project"
-name = "Project"
+URL = "faq"
+name = "Publications"
+weight = 4
+[[menu.footer]]
+URL = "pricing"
+name = "Research"
 weight = 2
 [[menu.footer]]
 URL = "service"
-name = "Service"
-weight = 3
+name = "News"
+weight = 1
 [[menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[menu.footer]]
-URL = "faq"
-name = "FAQ"
+URL = "project"
+name = "Alumni & Friends"
 weight = 5
 [[menu.footer]]
+URL = "about"
+name = "People"
+weight = 3
+[[menu.main]]
+URL = "pricing"
+name = "Pricing"
+parent = "Research"
+weight = 1
+[[menu.main]]
+URL = "faq"
+name = "FAQ"
+parent = "Research"
+weight = 2
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 6
 [[menu.main]]
-URL = "news"
-name = "News"
-weight = 4
+hasChildren = true
+name = "Research"
+weight = 3
 [[menu.main]]
-URL = "news"
+URL = "blog"
 name = "News"
 weight = 1
 [[menu.main]]
-URL = "people"
+URL = "service"
+name = "Alumni & Friends"
+weight = 5
+[[menu.main]]
+URL = "project"
 name = "People"
 weight = 2
 [[menu.main]]
-URL = "research"
-name = "Research"
-weight = 3
-[[menu.main]]
-URL = "research"
-hasChildren = true
-name = "Research"
-weight = 5
-[[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
+URL = "about"
+name = "Publications"
+weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
