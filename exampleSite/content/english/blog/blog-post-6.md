@@ -1,17 +1,21 @@
 ---
-title: "How To Wear Bright Shoes"
-date: 2018-09-24T11:07:10+06:00
+title: Prof. Xu published "Triple-halide wide–band gap perovskites with suppressed
+  phase segregation for efficient tandems" in Science
+date: '2018-09-24T11:07:10.000+06:00'
 author: John Doe
-image : "images/blog/blog-post-6.jpg"
-bg_image: "images/featue-bg.jpg"
-categories: ["Company News"]
-tags: ["News","Retro","AI","Company"]
-description: "this is meta description"
-draft: false
-type: "post"
+image: images/blog/blog-post-6.jpg
+bg_image: ''
+categories:
+- Company News
+tags:
+- News
+- Retro
+- AI
+- Company
+description: ''
+type: post
+
 ---
-
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
 vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
 ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
