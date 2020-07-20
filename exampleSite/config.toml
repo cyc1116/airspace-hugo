@@ -48,8 +48,8 @@ URL = "blog"
 name = "Blog"
 weight = 4
 [[menu.main]]
-URL = "news"
-name = "News"
+URL = "about"
+name = "About"
 weight = 1
 [[menu.main]]
 URL = "people"
