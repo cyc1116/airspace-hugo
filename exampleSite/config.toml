@@ -56,8 +56,8 @@ URL = "research"
 name = "Research"
 weight = 3
 [[menu.main]]
-URL = "blog"
-name = "Blog"
+URL = "news"
+name = "News"
 weight = 4
 [[menu.main]]
 hasChildren = true
