@@ -48,8 +48,8 @@ URL = "news"
 name = "News"
 weight = 1
 [[menu.main]]
-URL = "project"
-name = "Project"
+URL = "news"
+name = "News"
 weight = 2
 [[menu.main]]
 URL = "service"
