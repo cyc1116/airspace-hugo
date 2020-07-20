@@ -17,66 +17,64 @@ contentDir = "content/french"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
 home = "Accueil"
 languageCode = "fr-fr"
-languageName = "Fr"
+languageName = "CHS"
 weight = 2
 [[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[[menu.footer]]
-URL = "faq"
-name = "Publications"
-weight = 4
-[[menu.footer]]
-URL = "pricing"
-name = "Research"
-weight = 2
-[[menu.footer]]
-URL = "service"
-name = "News"
+URL = "about"
+name = "About"
 weight = 1
 [[menu.footer]]
 URL = "project"
-name = "Alumni & Friends"
-weight = 5
+name = "Project"
+weight = 2
 [[menu.footer]]
-URL = "about"
-name = "People"
+URL = "service"
+name = "Service"
 weight = 3
-[[menu.main]]
+[[menu.footer]]
 URL = "pricing"
 name = "Pricing"
-parent = "Research"
-weight = 1
-[[menu.main]]
+weight = 4
+[[menu.footer]]
 URL = "faq"
 name = "FAQ"
-parent = "Research"
-weight = 2
-[[menu.main]]
+weight = 5
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 6
 [[menu.main]]
-hasChildren = true
-name = "Research"
+URL = "about"
+name = "About"
+weight = 1
+[[menu.main]]
+URL = "project"
+name = "Project"
+weight = 2
+[[menu.main]]
+URL = "service"
+name = "Service"
 weight = 3
 [[menu.main]]
 URL = "blog"
-name = "News"
-weight = 1
+name = "Blog"
+weight = 4
 [[menu.main]]
-URL = "service"
-name = "Alumni & Friends"
+hasChildren = true
+name = "Pages"
 weight = 5
 [[menu.main]]
-URL = "project"
-name = "People"
-weight = 2
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
 [[menu.main]]
-URL = "about"
-name = "Publications"
-weight = 4
+URL = "pricing"
+name = "Pricing"
+parent = "Pages"
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 6
 [params]
 author = "Themefisher"
 contact_form_action = "#"
