@@ -46,6 +46,10 @@ weight = 6
 [[menu.main]]
 URL = "news"
 name = "News"
+weight = 4
+[[menu.main]]
+URL = "news"
+name = "News"
 weight = 1
 [[menu.main]]
 URL = "people"
@@ -56,12 +60,9 @@ URL = "research"
 name = "Research"
 weight = 3
 [[menu.main]]
-URL = "news"
-name = "News"
-weight = 4
-[[menu.main]]
+URL = "research"
 hasChildren = true
-name = "Pages"
+name = "Research"
 weight = 5
 [[menu.main]]
 URL = "faq"
