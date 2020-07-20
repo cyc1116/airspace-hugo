@@ -52,8 +52,8 @@ URL = "people"
 name = "People"
 weight = 2
 [[menu.main]]
-URL = "service"
-name = "Service"
+URL = "research"
+name = "Research"
 weight = 3
 [[menu.main]]
 URL = "blog"
