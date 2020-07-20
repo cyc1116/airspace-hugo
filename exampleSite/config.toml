@@ -60,9 +60,9 @@ URL = "research"
 name = "Research"
 weight = 3
 [[menu.main]]
-URL = "research"
+URL = "pages"
 hasChildren = true
-name = "Research"
+name = "Pages"
 weight = 5
 [[menu.main]]
 URL = "faq"
