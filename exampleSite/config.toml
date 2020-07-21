@@ -1,4 +1,4 @@
-baseURL = "https://myuchuncai.netlify.app/"
+baseURL = ""
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
